@@ -1,0 +1,9 @@
+.DS_Store
+.Rhistory
+.TinyTeX/
+.bash_history
+.cache/
+.config/
+.local/
+.rstudio/
+videos/
